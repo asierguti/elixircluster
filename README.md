@@ -1,6 +1,6 @@
 # Workmapper
 
-**TODO: Add description**
+**TODO: Add descriptions**
 
 ## Installation
 
